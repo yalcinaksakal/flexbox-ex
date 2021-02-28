@@ -1,2 +1,2 @@
 # flexbox-ex
-https://yalcinaksakal.github.io/flexbox-ex/
+https://flex-box-ex.netlify.app/
